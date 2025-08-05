@@ -1,0 +1,10 @@
+
+body { font-family: Arial, sans-serif; margin: 0; padding: 0; line-height: 1.6; }
+header { background: #111; color: #fff; padding: 1rem; text-align: center; }
+nav a { margin: 0 10px; color: #fff; text-decoration: none; }
+#search { padding: 1rem; text-align: center; }
+#searchBar { padding: 10px; width: 80%; max-width: 400px; }
+#featured, #categories, #gumroad, #about { padding: 1rem; }
+.grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(120px, 1fr)); gap: 10px; }
+.grid a { background: #f4f4f4; padding: 1rem; text-align: center; border-radius: 8px; text-decoration: none; color: #111; }
+footer { background: #111; color: #fff; text-align: center; padding: 1rem; margin-top: 2rem; }
